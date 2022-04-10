@@ -1,0 +1,328 @@
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.deps.json
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.runtimeconfig.json
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/ref/API.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.pdb
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Humanizer.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Pipelines.Sockets.Unofficial.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/StackExchange.Redis.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Stripe.net.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.Diagnostics.PerformanceCounter.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Infrastructure.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Infrastructure.pdb
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/ref/API.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.pdb
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.deps.json
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.runtimeconfig.json
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/ref/API.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/API.pdb
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Humanizer.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Pipelines.Sockets.Unofficial.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/StackExchange.Redis.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Stripe.net.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.Diagnostics.PerformanceCounter.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Infrastructure.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Infrastructure.pdb
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/bin/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/ref/API.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.pdb
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/API.deps.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/API.runtimeconfig.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/API.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/ref/API.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/API.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Humanizer.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Pipelines.Sockets.Unofficial.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/StackExchange.Redis.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Stripe.net.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/System.Diagnostics.PerformanceCounter.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Infrastructure.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Infrastructure.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/bin/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/ref/API.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/API.deps.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/API.runtimeconfig.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/API.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/ref/API.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/API.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Humanizer.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Pipelines.Sockets.Unofficial.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/StackExchange.Redis.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Stripe.net.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/System.Diagnostics.PerformanceCounter.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Infrastructure.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Infrastructure.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/bin/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/ref/API.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/API/obj/Debug/net5.0/API.genruntimeconfig.cache

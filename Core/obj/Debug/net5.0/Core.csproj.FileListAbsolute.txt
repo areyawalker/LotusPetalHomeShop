@@ -1,0 +1,48 @@
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/bin/Debug/net5.0/Core.deps.json
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/bin/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/bin/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/lynnwalker/Documents/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/bin/Debug/net5.0/Core.deps.json
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/bin/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/bin/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/MusicStudioBeStore/Core/obj/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/bin/Debug/net5.0/Core.deps.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/bin/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/bin/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/obj/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop/Core/obj/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/bin/Debug/net5.0/Core.deps.json
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/bin/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/bin/Debug/net5.0/Core.pdb
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/obj/Debug/net5.0/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/lynnwalker/Documents/Development/Websites/LotusPetalHomeShop - working/Core/obj/Debug/net5.0/Core.pdb
