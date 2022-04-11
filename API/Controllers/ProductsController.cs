@@ -66,6 +66,7 @@ namespace API.Controllers
             return _mapper.Map<ProductToReturnDto>(product);
         }
 
+
         [Cached(600)]
         [HttpGet("brands")]
         public async Task<ActionResult<IReadOnlyList<ProductBrand>>> GetBrands()

@@ -1,19 +1,37 @@
 ﻿<Properties StartupConfiguration="{81700B84-A4BC-469D-9DD8-A934034E5657}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/ProductsController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Data/SeedData/products.json">
     <Files>
-      <File FileName="API/Controllers/ProductsController.cs" Line="47" Column="1" />
+      <File FileName="API/Controllers/ProductsController.cs" Line="78" Column="55" />
+      <File FileName="API/Dtos/ProductToReturnDto.cs" Line="3" Column="28" />
+      <File FileName="Core/Entities/Product.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Data/ProductRepository.cs" Line="43" Column="48" />
+      <File FileName="Infrastructure/Data/SeedData/brands.json" Line="14" Column="2" />
+      <File FileName="Infrastructure/Data/SeedData/types.json" Line="34" Column="3" />
+      <File FileName="Infrastructure/Data/SeedData/products.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LotusPetalHomeShop" expanded="True">
             <Node name="API" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ProductsController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="SeedData" expanded="True">
+                  <Node name="products.json" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -21,9 +39,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/lynnwalker/Documents/LotusPetalHome/Shop/API/Controllers/ProductsController.cs" relfile="API/Controllers/ProductsController.cs" line="41" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

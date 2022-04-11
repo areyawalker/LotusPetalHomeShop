@@ -1,18 +1,34 @@
 [
   {
     "Id": 1,
-    "Name": "Boards"
+    "Name": "Towels"
   },
   {
     "Id": 2,
-    "Name": "Hats"
+    "Name": "Light-switch plates"
   },
   {
     "Id": 3,
-    "Name": "Boots"
+    "Name": "Shower Curtains"
   },
   {
     "Id": 4,
-    "Name": "Gloves"
+    "Name": "Blouses"
+  },
+  {
+    "Id": 5,
+    "Name": "Clocks"
+  },
+  {
+    "Id": 6,
+    "Name": "iPhone Cases"
+  },
+  {
+    "Id": 7,
+    "Name": "Pillows"
+  },
+  {
+    "Id": 8,
+    "Name": "Flip Flops"
   }
-]
+] 

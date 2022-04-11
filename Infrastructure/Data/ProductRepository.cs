@@ -39,5 +39,11 @@ namespace Infrastructure.Data
         {
             return await _context.ProductTypes.ToListAsync();
         }
+
+        public async Task<bool> AddProduct(Product product)
+        {
+            var result = await _context.Products.AddAsync(product);
+            return true;
+        }
     }
 }
