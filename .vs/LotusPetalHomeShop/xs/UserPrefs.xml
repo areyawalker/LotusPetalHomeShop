@@ -1,16 +1,26 @@
 ﻿<Properties StartupConfiguration="{81700B84-A4BC-469D-9DD8-A934034E5657}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Startup.cs">
+    <Files>
+      <File FileName="API/appsettings.Development.json" Line="10" Column="53" />
+      <File FileName="API/Startup.cs" Line="57" Column="1" />
+      <File FileName="API/Program.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LotusPetalHomeShop" expanded="True" selected="True">
-            <Node name="API" expanded="True" />
+          <Node name="LotusPetalHomeShop" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
